@@ -1,7 +1,7 @@
 name: Upload starter_zip
 
 env:
-  ZIP_NAME: oplossingP2L2
+  ZIP_NAME: oplossingP2L9
   FOLDER_TO_ZIP: ./oplossingen
   
 on:
